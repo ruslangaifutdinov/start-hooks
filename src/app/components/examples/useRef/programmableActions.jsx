@@ -1,5 +1,4 @@
-import React from "react";
-import { useRef } from "react";
+import React, { useRef } from "react";
 import CardWrapper from "../../common/Card";
 import SmallTitle from "../../common/typografy/smallTitle";
 const ProgrammableActionsExample = () => {

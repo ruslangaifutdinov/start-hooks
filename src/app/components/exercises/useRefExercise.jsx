@@ -12,7 +12,7 @@ const UseRefExercise = () => {
                 <li>высота и ширина станут равны 150 и 80 соответственно</li>
             </ul>
             <div
-                className="bg-primary d-flex flex-row justify-content-center align-items-center rounded"
+                className="bg-primary d-flex flex-row justify-content-center align-items-center rounded mb-2"
                 style={{
                     height: 40,
                     width: 60,
